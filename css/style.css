@@ -517,7 +517,7 @@ li {
 }
 .hexagon-in2.bride{
     background-image: url('../img/bride.jpg');
-    background-position: center;
+    background-position: inherit;
     background-size: cover;
 }
 .hexagon-in2 h4 span{
