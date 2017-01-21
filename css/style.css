@@ -512,7 +512,7 @@ li {
 }
 .hexagon-in2.groom{
     background-image: url('../img/groom.jpg');
-    background-position: center;
+    background-position: inherit;
     background-size: cover;
 }
 .hexagon-in2.bride{
